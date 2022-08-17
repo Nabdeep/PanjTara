@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f3e9ef;
+
+  /* background-image: linear-gradient(to bottom right, #231942, #e0b1cb); */
+}
+
